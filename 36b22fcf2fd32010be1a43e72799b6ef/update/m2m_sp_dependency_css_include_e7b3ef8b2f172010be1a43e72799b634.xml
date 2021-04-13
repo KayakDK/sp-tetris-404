@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_dependency_css_include">
+    <m2m_sp_dependency_css_include action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sp_css_include display_value="blockrainjs css">b9b3af8b2f172010be1a43e72799b6b0</sp_css_include>
+        <sp_dependency display_value="blockrain-js">4823678b2f172010be1a43e72799b6a4</sp_dependency>
+        <sys_class_name>m2m_sp_dependency_css_include</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2021-04-08 17:01:37</sys_created_on>
+        <sys_id>e7b3ef8b2f172010be1a43e72799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>blockrainjs css.blockrain-js</sys_name>
+        <sys_package display_value="TetrisNow" source="x_258559_tetrisnow">36b22fcf2fd32010be1a43e72799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</sys_scope>
+        <sys_update_name>m2m_sp_dependency_css_include_e7b3ef8b2f172010be1a43e72799b634</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2021-04-08 17:01:37</sys_updated_on>
+    </m2m_sp_dependency_css_include>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Highscore" max_length="40" name="x_258559_tetrisnow_highscore" sizeclass="29" type="collection">
+        <element label="Score" max_length="40" name="score" type="integer"/>
+        <element label="User" max_length="255" name="user" type="string"/>
+    </element>
+</database>

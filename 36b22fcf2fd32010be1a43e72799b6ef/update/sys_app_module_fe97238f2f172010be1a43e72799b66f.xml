@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Highscore">6697238f2f172010be1a43e72799b66c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Highscores</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_258559_tetrisnow_highscore</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_258559_tetrisnow.highscore_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2021-04-08 17:18:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe97238f2f172010be1a43e72799b66f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Highscores</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TetrisNow" source="x_258559_tetrisnow">36b22fcf2fd32010be1a43e72799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</sys_scope>
+        <sys_update_name>sys_app_module_fe97238f2f172010be1a43e72799b66f</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2021-04-08 17:18:29</sys_updated_on>
+        <timeline_page/>
+        <title>Highscores</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

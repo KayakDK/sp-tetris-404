@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d455a30f2f172010be1a43e72799b6c7</sp_column>
+        <sp_widget display_value="tetris game">5ce2a38b2f172010be1a43e72799b626</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2021-04-08 17:08:39</sys_created_on>
+        <sys_id>665563cb2f172010be1a43e72799b6de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TetrisNow" source="x_258559_tetrisnow">36b22fcf2fd32010be1a43e72799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</sys_scope>
+        <sys_update_name>sp_instance_665563cb2f172010be1a43e72799b6de</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2021-04-08 17:08:39</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=665563cb2f172010be1a43e72799b6de"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</application>
+        <file_path/>
+        <instance_id>cd002ce0db4df3c0f492c59705961918</instance_id>
+        <instance_name>dev82868</instance_name>
+        <name>sp_instance_665563cb2f172010be1a43e72799b6de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">d455a30f2f172010be1a43e72799b6c7</sp_column><sp_widget display_value="tetris game">5ce2a38b2f172010be1a43e72799b626</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>alberto.colombo</sys_created_by><sys_created_on>2021-04-08 17:08:39</sys_created_on><sys_id>665563cb2f172010be1a43e72799b6de</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="TetrisNow" source="x_258559_tetrisnow">36b22fcf2fd32010be1a43e72799b6ef</sys_package><sys_policy/><sys_scope display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</sys_scope><sys_update_name>sp_instance_665563cb2f172010be1a43e72799b6de</sys_update_name><sys_updated_by>alberto.colombo</sys_updated_by><sys_updated_on>2021-04-08 17:08:39</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=665563cb2f172010be1a43e72799b6de"/></record_update>]]></payload>
+        <payload_hash>-1886147386</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>87b22fcf2fd32010be1a43e72799b6f1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2021-04-08 17:08:39</sys_created_on>
+        <sys_id>ae55e30f2f172010be1a43e72799b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178b27510920000001</sys_recorded_at>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2021-04-08 17:08:39</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>e655e30fe8172010866e8caf69813f45</update_guid>
+        <update_guid_history>e655e30fe8172010866e8caf69813f45:-1886147386</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0aca6b032f572010be1a43e72799b6ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2021-04-08 17:32:22</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>08f3280a3b0541f5b6cd0224ce832f19</sys_id>
+        <sys_metadata>665563cb2f172010be1a43e72799b6de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TetrisNow" source="x_258559_tetrisnow">36b22fcf2fd32010be1a43e72799b6ef</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</sys_scope>
+        <sys_scope_delete display_value="">07b8f0f157464e34b5971e17c36722e4</sys_scope_delete>
+        <sys_update_name>sp_instance_665563cb2f172010be1a43e72799b6de</sys_update_name>
+        <sys_update_version display_value="sp_instance_665563cb2f172010be1a43e72799b6de">ae55e30f2f172010be1a43e72799b645</sys_update_version>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2021-04-08 17:32:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

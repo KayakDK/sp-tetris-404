@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column display_value="1">d455a30f2f172010be1a43e72799b6c7</sp_column>
+        <sp_container/>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2021-04-08 17:32:24</sys_created_on>
+        <sys_id>2eca2b032f572010be1a43e72799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="TetrisNow" source="x_258559_tetrisnow">36b22fcf2fd32010be1a43e72799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</sys_scope>
+        <sys_update_name>sp_row_2eca2b032f572010be1a43e72799b66d</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2021-04-08 17:32:24</sys_updated_on>
+    </sp_row>
+</record_update>

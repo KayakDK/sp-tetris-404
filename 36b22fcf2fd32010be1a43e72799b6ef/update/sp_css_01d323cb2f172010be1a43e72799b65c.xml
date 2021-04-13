@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>.blockrain-game-holder {&#13;
+  position: relative;&#13;
+  padding: 0;&#13;
+  margin: 0;&#13;
+  color: #ffffff;&#13;
+  font-size: 18px;&#13;
+  line-height: 140%;&#13;
+}&#13;
+&#13;
+/* Touch Controls */&#13;
+.blockrain-touch {&#13;
+  position: absolute;&#13;
+  width: 50px;&#13;
+  height: 50px;&#13;
+  display: block;&#13;
+  border-radius: 100%;&#13;
+  border: 1px solid white;&#13;
+  background: rgba(255,255,255,0.2);&#13;
+  z-index: 10;&#13;
+&#13;
+  -webkit-touch-callout: none;&#13;
+  -webkit-user-select: none;&#13;
+  -moz-user-select: none;&#13;
+  -ms-user-select: none;&#13;
+  user-select: none;&#13;
+&#13;
+  line-height: 50px;&#13;
+  text-align: center;&#13;
+}&#13;
+.blockrain-touch:active {&#13;
+  background: rgba(255,255,255,0.3);&#13;
+}&#13;
+&#13;
+.blockrain-touch-left {&#13;
+  left: -60px;&#13;
+  bottom: 10px;&#13;
+}&#13;
+.blockrain-touch-left::after {&#13;
+  content: "&lt;";&#13;
+}&#13;
+.blockrain-touch-right {&#13;
+  right: -60px;&#13;
+  bottom: 10px;&#13;
+}&#13;
+.blockrain-touch-right::after {&#13;
+  content: "&gt;";&#13;
+}&#13;
+&#13;
+.blockrain-touch-rotate-left {&#13;
+  left: -60px;&#13;
+  bottom: 80px;&#13;
+}&#13;
+.blockrain-touch-rotate-left::after {&#13;
+  content: "&lt;o";&#13;
+}&#13;
+&#13;
+.blockrain-touch-rotate-right {&#13;
+  right: -60px;&#13;
+  bottom: 80px;&#13;
+}&#13;
+.blockrain-touch-rotate-right::after {&#13;
+  content: "o&gt;";&#13;
+}&#13;
+&#13;
+.blockrain-touch-drop {&#13;
+  left: 50%;&#13;
+  margin-left: -25px;&#13;
+  bottom: -60px;&#13;
+}&#13;
+.blockrain-touch-drop::after {&#13;
+  content: ".";&#13;
+}&#13;
+&#13;
+/* Buttons */&#13;
+.blockrain-btn {&#13;
+  position: relative;&#13;
+  display: inline-block;&#13;
+  background: none;&#13;
+  color: #ffffff;&#13;
+  text-decoration: none;&#13;
+  border: 2px solid #ffffff;&#13;
+  padding: 15px 30px;&#13;
+  font-size: 18px;&#13;
+  text-align: center;&#13;
+  cursor: default;&#13;
+}&#13;
+.blockrain-btn::before {&#13;
+  position: absolute;&#13;
+  content: "";&#13;
+  top: 100%;&#13;
+  left: 0px;&#13;
+  bottom: 0px;&#13;
+  right: 0px;&#13;
+  border: 2px solid #ffffff;&#13;
+  border-top: none;&#13;
+  border-right: none;&#13;
+  transition: all 0.2s ease;&#13;
+}&#13;
+.blockrain-btn::after {&#13;
+  position: absolute;&#13;
+  content: "";&#13;
+  top: 0px;&#13;
+  left: 100%;&#13;
+  bottom: 0px;&#13;
+  right: 0px;&#13;
+  border: 2px solid #ffffff;&#13;
+  border-left: none;&#13;
+  border-bottom: none;&#13;
+  transition: all 0.2s ease;&#13;
+}&#13;
+&#13;
+.blockrain-btn:hover::before {&#13;
+  left: 5px;&#13;
+  bottom: -8px;&#13;
+  right: -8px;&#13;
+}&#13;
+.blockrain-btn:hover::after {&#13;
+  top: 5px;&#13;
+  bottom: -8px;&#13;
+  right: -8px;&#13;
+}&#13;
+&#13;
+&#13;
+/* Score */&#13;
+.blockrain-score-holder {&#13;
+  position: absolute;&#13;
+  top: 20px;&#13;
+  right: 20px;&#13;
+  text-align: right;&#13;
+}&#13;
+.blockrain-score-msg {&#13;
+  font-size: 14px;  &#13;
+  line-height: 100%;&#13;
+  margin-bottom: 0.2em;&#13;
+}&#13;
+.blockrain-score-num {&#13;
+  font-size: 20px;&#13;
+  font-weight: bold;&#13;
+}&#13;
+&#13;
+/* Menu */&#13;
+.blockrain-start-holder, .blockrain-game-over-holder {&#13;
+  position: absolute;&#13;
+  top: 0;&#13;
+  left: 0;&#13;
+  right: 0;&#13;
+  bottom: 0;&#13;
+&#13;
+  background: rgba(0,0,0,0.8);&#13;
+  text-align: center;&#13;
+}&#13;
+.blockrain-start, .blockrain-game-over {&#13;
+  position: absolute;&#13;
+  top: 50%;&#13;
+  width: 100%;&#13;
+  transform: translateY(-50%);&#13;
+}&#13;
+&#13;
+.blockrain-start-msg, .blockrain-game-over-msg {&#13;
+  font-size: 18px;&#13;
+  margin-bottom: 30px;&#13;
+}&#13;
+&#13;
+</css>
+        <name>blockrainjs.css</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2021-04-08 17:02:06</sys_created_on>
+        <sys_id>01d323cb2f172010be1a43e72799b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>blockrainjs.css</sys_name>
+        <sys_package display_value="TetrisNow" source="x_258559_tetrisnow">36b22fcf2fd32010be1a43e72799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TetrisNow">36b22fcf2fd32010be1a43e72799b6ef</sys_scope>
+        <sys_update_name>sp_css_01d323cb2f172010be1a43e72799b65c</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2021-04-08 17:02:06</sys_updated_on>
+    </sp_css>
+</record_update>
